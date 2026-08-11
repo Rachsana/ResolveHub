@@ -73,13 +73,13 @@ const Footer = () => {
             <div className="text-left md:text-center">
               Contributions:-
               <br />
-              Satyam Gupta | Palkesh Soni
+              Rachna Patel
             </div>
           </div>
         </div>
 
         <div className="pt-2 mt-2 border-t border-gray-50 text-center text-sm">
-          <p>© 2025 All Rights Reserved | Terms of Use and Privacy Policy</p>
+          <p>© 2026 All Rights Reserved | Terms of Use and Privacy Policy</p>
         </div>
       </div>
     </footer>
